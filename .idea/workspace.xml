@@ -1,17 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3392b8a-2ebc-4519-a1e3-6725f2ee5dc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/art.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pige.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ponyta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rain_form.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/squirtle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trainer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zeb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aHZpv5YCISAmfeBfbL8XqDmOuJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3392b8a-2ebc-4519-a1e3-6725f2ee5dc0" name="Default Changelist" comment="" />
+      <created>1586394665739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586394665739</updated>
+      <workItem from="1586394682031" duration="1311000" />
+    </task>
+    <task id="LOCAL-00001" summary="- initial commit">
+      <created>1586394788801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586394788801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="- initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="- initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1586394745348">
+    <state x="306" y="76" key="CommitChangelistDialog2" timestamp="1586394787614">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1586394745348" />
+    <state x="306" y="76" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1586394787614" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1586394832679">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1586394832679" />
   </component>
 </project>
