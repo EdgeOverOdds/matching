@@ -11,6 +11,7 @@ var cardsArray = [
     {    'name': 'MChar',    'img': 'https://github.com/EdgeOverOdds/matching/blob/master/images/M_char.jpg?raw=true',  },
     {    'name': 'JPuff',    'img': 'https://github.com/EdgeOverOdds/matching/blob/master/images/J_puff.jpg?raw=true',  },
     {    'name': 'Grav',    'img': 'https://github.com/EdgeOverOdds/matching/blob/master/images/Grav_MK.jpg?raw=true',  },
+
   ];
 
   // grab the div with an id of game-board and assign to a variable

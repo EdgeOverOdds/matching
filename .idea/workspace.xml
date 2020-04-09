@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3392b8a-2ebc-4519-a1e3-6725f2ee5dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/art.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pige.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ponyta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rain_form.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/squirtle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trainer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/zeb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/art.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/art.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pige.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pige.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ponyta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ponyta.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rain_form.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rain_form.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vulpix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/vulpix.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/zeb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/zeb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586394665739</updated>
-      <workItem from="1586394682031" duration="1311000" />
+      <workItem from="1586394682031" duration="3903000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit">
       <created>1586394788801</created>
@@ -69,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586394788801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- initial commit">
+      <created>1586396127877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586396127877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +87,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="- initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="76" key="CommitChangelistDialog2" timestamp="1586394787614">
+    <state x="306" y="76" key="CommitChangelistDialog2" timestamp="1586396127011">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="306" y="76" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1586394787614" />
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1586394832679">
+    <state x="306" y="76" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1586396127011" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1586469751608">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1586394832679" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1586469751608" />
+    <state x="558" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586396145383">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="558" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1586396145383" />
   </component>
 </project>
