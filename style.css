@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+h1{
+  text-align: center;
+  color: white;
+
+}
+
 body {
   margin: 20px 0;
   background: #6589F9;
@@ -57,4 +63,21 @@ body {
 .match .front {
   background: #6589F9 !important;
 
+}
+
+button {
+  color: #fff;
+  font-size: large;
+  text-transform: uppercase;
+  background: #ca2323;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50px;
+  border: none;
+  margin-left: 45%;
+}
+
+.button:hover {
+  background-color: rgb(14, 38, 143);
+  color: white;
 }

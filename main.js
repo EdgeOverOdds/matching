@@ -132,3 +132,15 @@ var cardsArray = [
    previousTarget = clicked; 
 
   } );
+
+
+
+  // reset game function
+function resetGame(){
+    location.reload();
+    alert("Game is Reset. Good Luck!!" );
+}
+
+  // Reset the game button
+  var resetButton = document.querySelector('.reset-game');
+  resetButton.addEventListener('click', resetGame)
