@@ -4,22 +4,50 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>JavascriptS Matching Game</title>
+  <title>Pokemon Matching Game - Ultra Cool Edition</title>
   <link rel='stylesheet' href='style.css'>
-
-
 </head>
 
 <body>
-    <h1 class = "my_title">Pokemon and Friends Matching Game</h1>
+    <h1 class="my_title">Pokemon and Friends Matching Game</h1>
+
+    <!-- Stats Container -->
+    <div class="stats-container">
+      <div class="stat-box">
+        <span class="stat-label">Score</span>
+        <span class="stat-value" id="score">0</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Moves</span>
+        <span class="stat-value" id="moves">0</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Combo</span>
+        <span class="stat-value" id="combo">0</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-label">Time</span>
+        <span class="stat-value" id="timer">00:00</span>
+      </div>
+    </div>
+
     <section>
-      <button type = "button" class ="reset-game button"> Reset Game</button>
+      <button type="button" class="reset-game button">Reset Game</button>
     </section>
+
     <div id='game-board'></div>
 
+    <!-- Victory Screen -->
+    <div class="victory-screen" id="victory-screen">
+      <div class="victory-content">
+        <h2>🎉 Victory! 🎉</h2>
+        <p>Final Score: <span id="final-score">0</span></p>
+        <p>Total Moves: <span id="final-moves">0</span></p>
+        <p>Time: <span id="final-time">00:00</span></p>
+        <button type="button" class="reset-game button" style="margin-top: 30px;">Play Again</button>
+      </div>
+    </div>
+
     <script src="main.js"></script>
-    
 </body>
-<!-- script that allows for moment library-->
-<script src="https://unpkg.com/moment" />
 </html>
